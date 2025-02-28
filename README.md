@@ -8,6 +8,9 @@ This is my collection of mods for the A4T Toolhead developed by Armchair-Heavy-I
 
 All licenses are carried over from their respective creators. License information available in the links above.
 
+![image](https://github.com/user-attachments/assets/bcb7041d-fad1-45fc-af9c-316da4620067)
+
+
 # Modifications overview and rationale:
 During my use of the A4T toolhead together with the southash1 developed filament cutter and Wrist Watch G2 extruder I've come across the following limitations, issues and areas for improvement:
 
