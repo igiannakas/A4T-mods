@@ -1,4 +1,4 @@
-# A4T Mods
+# WWG2 Mods for the A4T toolhead and filament cutter
 This is my collection of mods for the A4T Toolhead developed by Armchair-Heavy-Industries, toolhead cutter developed by SouthAsh1 and WWG2 (Wrist Watch G2) extruder developed by tetsu97 and modified by bythorsthunder to include a dual filament sensor. 
 
 **Project source links below:**
