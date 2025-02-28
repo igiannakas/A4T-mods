@@ -2,9 +2,9 @@
 This is my collection of mods for the A4T Toolhead developed by Armchair-Heavy-Industries, toolhead cutter developed by SouthAsh1 and WWG2 (Wrist Watch G2) extruder developed by tetsu97 and modified by bythorsthunder to include a dual filament sensor. 
 
 **Project source links below:**
-https://github.com/Armchair-Heavy-Industries/A4T
-https://github.com/bythorsthunder/Voron_Mods/tree/main/Wristwatch_G2_Dual_Filament_Sensor
-https://github.com/SouthAsh1/A4T-AFC
+1. https://github.com/Armchair-Heavy-Industries/A4T
+2. https://github.com/bythorsthunder/Voron_Mods/tree/main/Wristwatch_G2_Dual_Filament_Sensor
+3. https://github.com/SouthAsh1/A4T-AFC
 
 All licenses are carried over from their respective creators. License information available in the links above.
 
