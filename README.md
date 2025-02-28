@@ -24,6 +24,13 @@ During my use of the A4T toolhead together with the southash1 developed filament
 Please note that the M2 heatset is still needed to guide the filament through to the cutter and is fitted underneath the extruder adaptor filament path, here:
 ![image](https://github.com/user-attachments/assets/fa32d39c-94a1-4545-967f-58132c1e456e)
 
+# Assembly tips
+As the filament paths are now tigther than the original designs (2.1mm in diameter) you may need a 2mm drill bit to ream them out slightly if they are too tight for filament to pass through easily.
+
+The **WWG2 extruder has shrinkage compensation for ABS like materials already built in** the base design, from which these mods are derived from. So in theory you shouldnt need to scale the parts.
+
+The **A4T AFC parts do not have shrinkage compensation baked in the CAD**, so you'll need to apply your material shrinkage compensation as per the base design instructions.
+
 Happy printing!
 
 
